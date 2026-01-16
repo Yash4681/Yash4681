@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>🔭 Currently working on<br>Real-world applications in the payment domain, mostly around log analysis, certification checks, and backend systems using .NET.<br><br>👯 Looking to collaborate on<br>Fun and practical projects with .NET / ASP.NET Core, React, or Next.js—especially if they help us learn and grow together.<br><br>🤝 Looking for help with<br>Writing better architecture, following real industry best practices, and improving system design skills.<br><br>🌱 Currently learning<br>ASP.NET Core, React.js, Next.js, and full-stack development with modern tools and workflows.<br><br>💬 Ask me about<br>C#, .NET basics, SQL, Git/GitHub, or how to start your journey as a junior developer.<br><br>⚡ Fun fact<br>I love simplifying complex concepts—and I can spend hours debugging just to find a missing semicolon 😅
+👋 Hi, I’m Yash Manglekar<br>💻 Junior Software Developer | .NET Enthusiast | Full-Stack Learner<br>🚀 About Me<br><br>🔭 Currently working on<br>Enterprise-level applications in the payment domain, focusing on log analysis, certification validation, and backend systems using .NET technologies.<br><br>👯 Looking to collaborate on<br>Real-world and open-source projects using ASP.NET Core, React, and Next.js—especially projects that help sharpen practical development skills.<br><br>🤝 Looking for help with<br>Improving system design, writing clean and scalable architecture, and understanding how large-scale production systems are built.<br><br>🌱 Currently learning<br>ASP.NET Core, React.js, Next.js, REST APIs, and modern full-stack development practices.<br><br>💬 Ask me about<br>C#, .NET, ASP.NET Core basics, SQL, Git/GitHub, and navigating the early stages of a software developer career.<br><br>⚡ Fun fact<br>I enjoy turning complex technical problems into simple explanations—and I don’t stop debugging until I know why it broke 😄
 
 
 ## 🌐 Socials:
@@ -14,8 +14,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Yash4681&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
